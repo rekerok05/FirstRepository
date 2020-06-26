@@ -1,1 +1,2 @@
 privet Andrey
+It's new line in folder "user 2"
